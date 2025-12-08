@@ -1,5 +1,7 @@
 # 🚀 FMEE 2025 – AI & Robotics Club Exhibition Projects
 
+<img src="images/logo.png" alt="logo" width="50%">
+
 Welcome to the **FMEE 2025 Repository**, a showcase of **21 innovative robotics, AI, and interactive engineering projects** presented at the **Opening Event of the AI & Robotics Club**.
 
 This collection represents the creativity and technical excellence of our students, combining hardware, software, AI, electronics, mechanics, game design, and interactive experiences.
@@ -10,6 +12,11 @@ This collection represents the creativity and technical excellence of our studen
 
 **FMEE 2025 – AI & Robotics Club Opening Projects**  
 This repository is a unified archive of all robotics, AI, automation, and interactive technology projects created for the 2025 exhibition and club launch.
+
+<p align="center">
+<img src="images/logo.png" alt="logo" height="150"  >
+<img src="images/fmee.png" alt="logo" height="150">
+</p>
 
 Showcasing excellence in:
 
@@ -59,9 +66,10 @@ It serves as:
 
 Below is a full list of all projects with brief descriptions and team member credits.  
 
----
 
 ## 🔴 1. Waving Robot  <a name="Waving"></a>
+
+<img src="images/wave.png" alt="wave" >
 
 A robot that detects approaching visitors and waves automatically using Arduino Nano BLE Sense Rev2 and a servo mechanism.  
 
@@ -86,6 +94,10 @@ A robot that detects approaching visitors and waves automatically using Arduino 
 ---
 
 ## 🔴 2. Game Scoring System  
+<img src="images/score1.png" alt="score" >
+<img src="images/score2.png" alt="score" >
+<img src="images/score3.png" alt="score" >
+
 QR-based visitor login, score tracking across games, and live leaderboard system.  
 
 ### **Technologies**
@@ -110,6 +122,10 @@ QR-based visitor login, score tracking across games, and live leaderboard system
 ---
 
 ## 🔴 3. Tic-Tac-Toe 
+
+<img src="images/xo.png" alt="xo" >
+<img src="images/xo2.png" alt="xo" >
+
 it is an interactive physical Tic-Tac-Toe (XO) game that allows a player to compete against the computer on a real-world game board. 
 
 ### **Technologies**
@@ -133,6 +149,9 @@ it is an interactive physical Tic-Tac-Toe (XO) game that allows a player to comp
 ---
 
 ## 🔴 4. Path Puzzle  
+
+<img src="images/pathpuzzel.png" alt="pathpuzzel" >
+
 **Binary Dice Puzzle** - An interactive puzzle where visitors are shown a binary number and must convert it to decimal using a physical dice.  
 The system validates their answer using AI-powered dice detection.
 
@@ -161,6 +180,9 @@ The system validates their answer using AI-powered dice detection.
 ---
 
 ## 🔴 5. Turtulisim Robot 
+
+<img src="images/turtulsim.png" alt="turtulsim" >
+
 A robot designed in simulation environments and implemented physically for path following or behavior testing.  
 
 ### **Technologies**
@@ -187,6 +209,9 @@ A robot designed in simulation environments and implemented physically for path 
 ---
 
 ## 🔴 6. Drawing Robot 
+
+<img src="images/painter.png" alt="painter" >
+
 A small-scale CNC machine that draws or paints based on programmed paths.  
 
 ### **Technologies**
@@ -208,6 +233,8 @@ A small-scale CNC machine that draws or paints based on programmed paths.
 ---
 
 ## 🔴 7. Mystery Call Box 
+
+<img src="images/box.png" alt="box" >
 
 A retro-inspired interactive puzzle where placing a phone inside a box triggers an automatic lock. A vintage 1970s telephone beside the box begins to ring, delivering mysterious audio clues and mini-challenges. By solving these challenges, the user uncovers the secret code needed to unlock the box.
 
@@ -235,6 +262,9 @@ A retro-inspired interactive puzzle where placing a phone inside a box triggers 
 ---
 
 ## 🔴 8. Memory Test  
+
+<img src="images/memory.png" alt="memory" >
+
 LED sequence memory game using push buttons and Arduino.  
 
 ### **Technologies**
@@ -258,6 +288,9 @@ LED sequence memory game using push buttons and Arduino.
 ---
 
 ## 🔴 9. Klotski Puzzle  
+
+<img src="images/klotiski.png" alt="klotiski" >
+
 RFID-enabled interactive block puzzle verifying correct piece placement.  
 
 ### **Technologies**
@@ -280,6 +313,9 @@ RFID-enabled interactive block puzzle verifying correct piece placement.
 ---
 
 ## 🔴 10. Joystick-Controlled Robotic Arm  
+
+<img src="images/roboarm.png" alt="roboarm" >
+
 A simple and intuitive robotic arm controlled using two Arduino joysticks.
 
 ### **Technologies**
@@ -307,6 +343,9 @@ A simple and intuitive robotic arm controlled using two Arduino joysticks.
 ---
 
 ## 🔴 11. 4 Wins  
+
+<img src="images/4wins.png" alt="4wins" >
+
 A digital or physical “Connect 4” style interactive game system.  
 
 ### **Technologies**
@@ -327,6 +366,8 @@ A digital or physical “Connect 4” style interactive game system.
 ---
 
 ## 🔴 12. Drone Simulator  
+
+<img src="images/simulator.png" alt="simulator" >
 
 Drone training and flight environment using the Liftoff simulation platform.  
 
@@ -354,6 +395,10 @@ Drone training and flight environment using the Liftoff simulation platform.
 ---
 
 ## 🔴 13. Drones  
+
+<img src="images/drone1.png" alt="drone1" >
+
+<img src="images/drone2.png" alt="drone2" >
 Hardware-built drones designed, assembled, and tested by the team.  
 
 ### **Technologies**
@@ -376,6 +421,9 @@ Hardware-built drones designed, assembled, and tested by the team.
 ---
 
 ## 🔴 14. Eye Tracking  
+
+<img src="images/eyes.png" alt="eyes" >
+
 A system that detects and follows eye movement for control, accessibility, or interaction.  
 
 ### **Technologies**
@@ -396,6 +444,9 @@ A system that detects and follows eye movement for control, accessibility, or in
 ---
 
 ## 🔴 15. QuadSpider Robot 
+
+<img src="images/quadspider.png" alt="quadspider" >
+
 A mobile four-legged robot powered by ESP32 and controlled through a custom mobile app.  
 
 ### **Technologies**
@@ -423,6 +474,9 @@ A mobile four-legged robot powered by ESP32 and controlled through a custom mobi
 ---
 
 ## 🔴 16. Squid-Game 🟢🔴 Light-Challenge  
+
+<img src="images/squid.png" alt="squid" >
+
 A set of game challenges inspired by the popular series, implemented with sensors, robotics, or motion tracking.  
 
 ### **Technologies**
@@ -450,6 +504,8 @@ A set of game challenges inspired by the popular series, implemented with sensor
 ---
 
 ## 🔴 17. Mecanum Wheels Robot 
+
+<img src="images/mecanum.png" alt="mecanum" >
 
 A robot with omni-wheels allowing full 360° movement in any direction.  
 
@@ -479,6 +535,8 @@ A robot with omni-wheels allowing full 360° movement in any direction.
 ---
 
 ## 🔴 18. Rock–Paper–Scissors Bot  
+
+<img src="images/rockpaper.png" alt="rockpaper" >
 
 a dual-mode Rock-Paper-Scissors robot that combines basic sensor interaction with advanced motion-tracking.  
 
@@ -512,6 +570,8 @@ a dual-mode Rock-Paper-Scissors robot that combines basic sensor interaction wit
 
 ## 🔴 19. Run  
 
+<img src="images/run.png" alt="run" >
+
 it is a full-body 3D running game where players control the character entirely through physical movement using an Xbox Kinect camera.
 
 ### **Technologies**
@@ -540,6 +600,9 @@ it is a full-body 3D running game where players control the character entirely t
 ---
 
 ## 🔴 20. Hamek Feud  
+
+<img src="images/feud.png" alt="feud" >
+
 A family-feud style quiz game with scoring, buttons, and interactive displays.  
 
 ### **Technologies**
@@ -563,6 +626,9 @@ A family-feud style quiz game with scoring, buttons, and interactive displays.
 ---
 
 ## 🔴 21. Super Hamaki Bros  
+
+<img src="images/superhamk.png" alt="superhamk" >
+
 A fun interactive platformer game inspired by classic arcade mechanics.  
 
 ### **Technologies**
@@ -599,13 +665,18 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 - **Eng. Izzat Kawadri - Projects Manager**
 🔗 [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
 
-### 📸 Media Team & Documentation
+### 📸 Media Team 
 - **Malek Shammout – Photography & Media Leader**  
   🔗 [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
    
 - **Shahd Alkhawam – Social Media & Branding**  
   🔗 [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
 
+- **Sarah Alahmad – Social Media & Branding**
+  🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
+
+- **Tasnem Kanakriah – Social Media & Branding**
+  🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
 
 ### 📸 Projects Team
 
