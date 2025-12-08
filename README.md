@@ -702,5 +702,5 @@ All projects are published under the **MIT License**, unless a project folder sp
 
 ---
 
-### ✨ Built with passion by the FMEE Students, 2025  
-### 🤖 Proudly presented by the AI & Robotics Club  
+
+### 🤖 Proudly presented by the AI & Robotics Club , 2025 
