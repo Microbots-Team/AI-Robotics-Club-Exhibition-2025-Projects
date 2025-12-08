@@ -655,28 +655,22 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 
 ### 🧑‍🏫 Organizers
 
-- **Dr. Sami Al-Issa – Event Supervisor**  
-  🔗 [LinkedIn](https://www.linkedin.com/in/sami-al-issa-a7871a129/)
+- **Dr. Sami Al-Issa – Event Supervisor**
+🔗 [LinkedIn](https://www.linkedin.com/in/sami-al-issa-a7871a129/)
 
-- **Eng. Ayman Bakleh – Robotics Club Coordinator**    
-  🔗 [LinkedIn](https://www.linkedin.com/in/aymanbakleh/)  
+- **Eng. Ayman Bakleh – Robotics Club Coordinator**   🔗 [LinkedIn](https://www.linkedin.com/in/aymanbakleh/)  
 
 ### 📜 Documentation
-- **Eng. Izzat Kawadri - Projects Manager**
-🔗 [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
+- **Eng. Izzat Kawadri - Projects Manager** 🔗 [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
 
 ### 📸 Media Team 
-- **Malek Shammout – Photography & Media Leader**  
-  🔗 [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
+- **Malek Shammout – Photography & Media Leader**  🔗 [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
    
-- **Shahd Alkhawam – Social Media & Branding**  
-  🔗 [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
+- **Shahd Alkhawam – Social Media & Branding**  🔗 [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
 
-- **Sarah Alahmad – Social Media & Branding**
-  🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
+- **Sarah Alahmad – Social Media & Branding** 🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
 
-- **Tasnem Kanakriah – Social Media & Branding**
-  🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
+- **Tasnem Kanakriah – Social Media & Branding** 🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
 
 ### 📸 Projects Team
 
