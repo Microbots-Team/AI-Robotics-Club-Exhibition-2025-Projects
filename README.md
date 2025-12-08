@@ -39,26 +39,26 @@ It serves as:
 # 📚 Table of Contents (21 Projects)
 
 1. [Waving Robot](#Waving) 
-2. [Game Scoring System]()  
-3. [Tic-Tac-Toe]()   
-4. [Path Puzzle ]() 
-5. [Turtulisim Robot]() 
-6. [Drawing Robot]()  
-7. [Mystery Call Box]() 
-8. [Memory Test]()  
-9. [Klotski Puzzle]()  
-10. [Joystick-Controlled Arm]()  
-11. [4 Wins ]() 
-12. [Drone Simulator]()  
-13. [Drones  ]() 
-14. [Eye Tracking System  ]()
-15. [QuadSpider Robot]()  
-16. [Squid Game Light-Challenge]() 
-17. [Mecanum Wheels Robot]()  
-18. [Rock–Paper–Scissors]()  
-19. [Run Game]()  
-20. [Hamek Feud]()  
-21. [Super Hamaki Bros]()  
+2. [Game Scoring System](#scoring)  
+3. [Tic-Tac-Toe](#xo)   
+4. [Path Puzzle ](#path) 
+5. [Turtulisim Robot](#turtul) 
+6. [Drawing Robot](#draw)  
+7. [Mystery Call Box](#box) 
+8. [Memory Test](#memory)  
+9. [Klotski Puzzle](#klotski)  
+10. [Joystick-Controlled Arm](#arm)  
+11. [4 Wins ](#wins4) 
+12. [Drone Simulator](#simulator)  
+13. [Drones  ](#drones) 
+14. [Eye Tracking System  ](#eyes)
+15. [QuadSpider Robot](#spider)  
+16. [Squid Game Light-Challenge](#squid) 
+17. [Mecanum Wheels Robot](#mecanum)  
+18. [Rock–Paper–Scissors](#rock)  
+19. [Run Game](#run)  
+20. [Hamek Feud](#feud)  
+21. [Super Hamaki Bros](#super)  
 
 ---
 
@@ -93,7 +93,7 @@ A robot that detects approaching visitors and waves automatically using Arduino 
 
 ---
 
-## 🔴 2. Game Scoring System  
+## 🔴 2. Game Scoring System  <a name="scoring"></a>
 <img src="images/score1.png" alt="score" >
 <img src="images/score2.png" alt="score" >
 <img src="images/score3.png" alt="score" >
@@ -121,7 +121,7 @@ QR-based visitor login, score tracking across games, and live leaderboard system
 
 ---
 
-## 🔴 3. Tic-Tac-Toe 
+## 🔴 3. Tic-Tac-Toe <a name="xo"></a>
 
 <img src="images/xo.png" alt="xo" >
 <img src="images/xo2.png" alt="xo" >
@@ -148,7 +148,7 @@ it is an interactive physical Tic-Tac-Toe (XO) game that allows a player to comp
 
 ---
 
-## 🔴 4. Path Puzzle  
+## 🔴 4. Path Puzzle  <a name="path"></a>
 
 <img src="images/pathpuzzel.png" alt="pathpuzzel" >
 
@@ -179,7 +179,7 @@ The system validates their answer using AI-powered dice detection.
 
 ---
 
-## 🔴 5. Turtulisim Robot 
+## 🔴 5. Turtulisim Robot <a name="turtul"></a>
 
 <img src="images/turtulsim.png" alt="turtulsim" >
 
@@ -208,7 +208,7 @@ A robot designed in simulation environments and implemented physically for path 
 
 ---
 
-## 🔴 6. Drawing Robot 
+## 🔴 6. Drawing Robot <a name="draw"></a>
 
 <img src="images/painter.png" alt="painter" >
 
@@ -232,7 +232,7 @@ A small-scale CNC machine that draws or paints based on programmed paths.
 
 ---
 
-## 🔴 7. Mystery Call Box 
+## 🔴 7. Mystery Call Box <a name="box"></a>
 
 <img src="images/box.png" alt="box" >
 
@@ -261,7 +261,7 @@ A retro-inspired interactive puzzle where placing a phone inside a box triggers 
 
 ---
 
-## 🔴 8. Memory Test  
+## 🔴 8. Memory Test  <a name="memory"></a>
 
 <img src="images/memory.png" alt="memory" >
 
@@ -287,7 +287,7 @@ LED sequence memory game using push buttons and Arduino.
 
 ---
 
-## 🔴 9. Klotski Puzzle  
+## 🔴 9. Klotski Puzzle  <a name="klotski"></a>
 
 <img src="images/klotiski.png" alt="klotiski" >
 
@@ -312,7 +312,7 @@ RFID-enabled interactive block puzzle verifying correct piece placement.
 
 ---
 
-## 🔴 10. Joystick-Controlled Robotic Arm  
+## 🔴 10. Joystick-Controlled Robotic Arm  <a name="arm"></a>
 
 <img src="images/roboarm.png" alt="roboarm" >
 
@@ -342,7 +342,7 @@ A simple and intuitive robotic arm controlled using two Arduino joysticks.
 
 ---
 
-## 🔴 11. 4 Wins  
+## 🔴 11. 4 Wins  <a name="wins4"></a>
 
 <img src="images/4wins.png" alt="4wins" >
 
@@ -365,7 +365,7 @@ A digital or physical “Connect 4” style interactive game system.
 
 ---
 
-## 🔴 12. Drone Simulator  
+## 🔴 12. Drone Simulator  <a name="simulator"></a>
 
 <img src="images/simulator.png" alt="simulator" >
 
@@ -394,7 +394,7 @@ Drone training and flight environment using the Liftoff simulation platform.
 
 ---
 
-## 🔴 13. Drones  
+## 🔴 13. Drones  <a name="drones"></a>
 
 <img src="images/drone1.png" alt="drone1" >
 
@@ -420,7 +420,7 @@ Hardware-built drones designed, assembled, and tested by the team.
 
 ---
 
-## 🔴 14. Eye Tracking  
+## 🔴 14. Eye Tracking  <a name="eyes"></a>
 
 <img src="images/eyes.png" alt="eyes" >
 
@@ -443,7 +443,7 @@ A system that detects and follows eye movement for control, accessibility, or in
 
 ---
 
-## 🔴 15. QuadSpider Robot 
+## 🔴 15. QuadSpider Robot <a name="spider"></a>
 
 <img src="images/quadspider.png" alt="quadspider" >
 
@@ -473,7 +473,7 @@ A mobile four-legged robot powered by ESP32 and controlled through a custom mobi
 
 ---
 
-## 🔴 16. Squid-Game 🟢🔴 Light-Challenge  
+## 🔴 16. Squid-Game 🟢🔴 Light-Challenge  <a name="squid"></a>
 
 <img src="images/squid.png" alt="squid" >
 
@@ -503,7 +503,7 @@ A set of game challenges inspired by the popular series, implemented with sensor
 
 ---
 
-## 🔴 17. Mecanum Wheels Robot 
+## 🔴 17. Mecanum Wheels Robot <a name="mecanum"></a>
 
 <img src="images/mecanum.png" alt="mecanum" >
 
@@ -534,7 +534,7 @@ A robot with omni-wheels allowing full 360° movement in any direction.
 
 ---
 
-## 🔴 18. Rock–Paper–Scissors Bot  
+## 🔴 18. Rock–Paper–Scissors Bot  <a name="rock"></a>
 
 <img src="images/rockpaper.png" alt="rockpaper" >
 
@@ -568,7 +568,7 @@ a dual-mode Rock-Paper-Scissors robot that combines basic sensor interaction wit
 
 ---
 
-## 🔴 19. Run  
+## 🔴 19. Run  <a name="run"></a>
 
 <img src="images/run.png" alt="run" >
 
@@ -599,7 +599,7 @@ it is a full-body 3D running game where players control the character entirely t
 
 ---
 
-## 🔴 20. Hamek Feud  
+## 🔴 20. Hamek Feud  <a name="feud"></a>
 
 <img src="images/feud.png" alt="feud" >
 
@@ -625,7 +625,7 @@ A family-feud style quiz game with scoring, buttons, and interactive displays.
 
 ---
 
-## 🔴 21. Super Hamaki Bros  
+## 🔴 21. Super Hamaki Bros  <a name="super"></a>
 
 <img src="images/superhamk.png" alt="superhamk" >
 
@@ -664,6 +664,7 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 - **Eng. Izzat Kawadri - Projects Manager** 🔗 [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
 
 ### 📸 Media Team 
+
 - **Malek Shammout – Photography & Media Leader**  🔗 [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
    
 - **Shahd Alkhawam – Social Media & Branding**  🔗 [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
@@ -672,26 +673,39 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 
 - **Tasnem Kanakriah – Social Media & Branding** 🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
 
+- **Ahmed Kalthom** 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-kalthom-baa791355)
+
+- **Louay Rashwan** 🔗 [LinkedIn](https://www.linkedin.com/in/louay-rashwan-a78778329)
+
+- **Ghina Aldirani** 🔗 [LinkedIn](https://www.linkedin.com/in/ghina-aldirani-911570272)
+
 ### 📸 Projects Team
 
-- **Eng. Ayman Bakleh** [LinkedIn](https://www.linkedin.com/in/aymanbakleh/)
-- **Eng. Aziz Marashly** [LinkedIn](https://www.linkedin.com/in/azizmarashly/)
-- **Aya ALbadawe** [LinkedIn](https://www.linkedin.com/in/aya-albadawe-428a9938a)
-- **Bayan Jafar**  [LinkedIn](https://www.linkedin.com/in/bayan-jafar-09aa9b24a)
-- **Mohammad Mohammad** [LinkedIn](https://www.linkedin.com/in/mohammad-mohammad-93917a252/)
-- **Momen Defdaa** [LinkedIn](https://www.linkedin.com/in/momen-defdaa-0a18a0258)
-- **Ahmad Sheikh Daher** [LinkedIn](https://www.linkedin.com/in/ahmad-sheikh-daher/)
-- **Malek Shammout** [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
-- **May Homsi** [LinkedIn](https://www.linkedin.com/in/may-homsi-04764335b/)
-- **Sulaiman Sulaiman** [LinkedIn](https://www.linkedin.com/in/sulaiman-sulaiman-98355238a)
-- **Shahd Alkhawam** [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
-- **Jolian Wassof** [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/)
-- **Yasser Al-Sirafi** [LinkedIn](https://www.linkedin.com/in/yasser-al-sirafi-401437392/)
-- **Mouayad bakleh** [LinkedIn](https://www.linkedin.com/in/moaiad-bakleh-4459a3376)
-- **Abdulhadi Albitar** — [LinkedIn](https://www.linkedin.com/in/abdulhadi-albitar-020893241/)
-- **Eng. Rosah Alnammour** — [LinkedIn](https://www.linkedin.com/in/rosah-alnammour/)
-- **Eng. Izzat Kawadri** [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
+- **Eng. Ayman Bakleh** 🔗 [LinkedIn](https://www.linkedin.com/in/aymanbakleh/)
+- **Eng. Aziz Marashly** 🔗 [LinkedIn](https://www.linkedin.com/in/azizmarashly/)
+- **Aya ALbadawe** 🔗 [LinkedIn](https://www.linkedin.com/in/aya-albadawe-428a9938a)
+- **Bayan Jafar**  🔗 [LinkedIn](https://www.linkedin.com/in/bayan-jafar-09aa9b24a)
+- **Mohammad Mohammad** 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-mohammad-93917a252/)
+- **Momen Defdaa** 🔗 [LinkedIn](https://www.linkedin.com/in/momen-defdaa-0a18a0258)
+- **Ahmad Sheikh Daher** 🔗 [LinkedIn](https://www.linkedin.com/in/ahmad-sheikh-daher/)
+- **Malek Shammout** 🔗 [LinkedIn](https://www.linkedin.com/in/malek-shammout-090523337/)  
+- **May Homsi** 🔗 [LinkedIn](https://www.linkedin.com/in/may-homsi-04764335b/)
+- **Sulaiman Sulaiman** 🔗 [LinkedIn](https://www.linkedin.com/in/sulaiman-sulaiman-98355238a)
+- **Shahd Alkhawam** 🔗 [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
+- **Jolian Wassof** 🔗 [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/)
+- **Yasser Al-Sirafi** 🔗 [LinkedIn](https://www.linkedin.com/in/yasser-al-sirafi-401437392/)
+- **Mouayad bakleh** 🔗 [LinkedIn](https://www.linkedin.com/in/moaiad-bakleh-4459a3376)
+- **Abdulhadi Albitar**  🔗 [LinkedIn](https://www.linkedin.com/in/abdulhadi-albitar-020893241/)
+- **Eng. Rosah Alnammour**  🔗 [LinkedIn](https://www.linkedin.com/in/rosah-alnammour/)
+- **Eng. Izzat Kawadri** 🔗 [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
 
+### Volunteers & Logistics Team
+
+- **Sarah Alahmad**  🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
+- **Tasnem Kanakriah**  🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
+- **Tareq Alkhateb** 🔗 [LinkedIn](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/)
+- **Malek Saadi** 🔗 [LinkedIn](https://www.linkedin.com/in/malek-saadi-27096134b/)
+  
 Your support, creativity, and hard work made this exhibition truly exceptional.
 
 ---
