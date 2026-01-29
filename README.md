@@ -335,6 +335,7 @@ A simple and intuitive robotic arm controlled using two Arduino joysticks.
 
 ### **Contributors**
 
+- **Abdullah Abdoh**  [LinkedIn](https://www.linkedin.com/in/abdullah-abdoh-4a6343323)
 - **Ayman Bakleh** [LinkedIn](https://www.linkedin.com/in/aymanbakleh/)
 
 ### **Project Description :**
@@ -466,6 +467,7 @@ A mobile four-legged robot powered by ESP32 and controlled through a custom mobi
 
 ### **Contributors**
 
+- **Amer Alsaour**  [LinkedIn](https://www.linkedin.com/in/amer-alsaour-026898193/)
 - **Ahmad Sheikh Daher** [LinkedIn](https://www.linkedin.com/in/ahmad-sheikh-daher/)  
 
 ### **Project Description :**
@@ -526,6 +528,8 @@ A robot with omni-wheels allowing full 360° movement in any direction.
 - Expandable design for future sensors or autonomy
 
 ### **Contributors**
+
+- **Amer Alsaour**  [LinkedIn](https://www.linkedin.com/in/amer-alsaour-026898193/)
 
 - **Ahmad Sheikh Daher** [LinkedIn](https://www.linkedin.com/in/ahmad-sheikh-daher/)  
 
@@ -669,9 +673,7 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
    
 - **Shahd Alkhawam – Social Media & Branding**  🔗 [LinkedIn](https://www.linkedin.com/in/shahd-alkhawam-1b98a6373/)
 
-- **Sarah Alahmad – Social Media & Branding** 🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
-
-- **Tasnem Kanakriah – Social Media & Branding** 🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
+- **Eng. Sarah Alahmad – Social Media & Branding** 🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
 
 - **Ahmed Kalthom** 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-kalthom-baa791355)
 
@@ -696,16 +698,30 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 - **Yasser Al-Sirafi** 🔗 [LinkedIn](https://www.linkedin.com/in/yasser-al-sirafi-401437392/)
 - **Mouayad bakleh** 🔗 [LinkedIn](https://www.linkedin.com/in/moaiad-bakleh-4459a3376)
 - **Abdulhadi Albitar**  🔗 [LinkedIn](https://www.linkedin.com/in/abdulhadi-albitar-020893241/)
+- **Abdullah Abdoh** 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-abdoh-4a6343323)
+- **Amer Alsaour** 🔗 [LinkedIn](https://www.linkedin.com/in/amer-alsaour-026898193/)
 - **Eng. Rosah Alnammour**  🔗 [LinkedIn](https://www.linkedin.com/in/rosah-alnammour/)
 - **Eng. Izzat Kawadri** 🔗 [LinkedIn](https://www.linkedin.com/in/izzat-kawadri/)
 
 ### Volunteers & Logistics Team
 
-- **Sarah Alahmad**  🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
-- **Tasnem Kanakriah**  🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
-- **Tareq Alkhateb** 🔗 [LinkedIn](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/)
+- **Tasnem Kanakriah –  Logistics Team Leader**  🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
+- **May Homsi** 🔗 [LinkedIn](https://www.linkedin.com/in/may-homsi-04764335b/)
+- **Sulaiman Sulaiman** 🔗 [LinkedIn](https://www.linkedin.com/in/sulaiman-sulaiman-98355238a)
+- **Aya ALbadawe** 🔗 [LinkedIn](https://www.linkedin.com/in/aya-albadawe-428a9938a)
+- **Bayan Jafar**  🔗 [LinkedIn](https://www.linkedin.com/in/bayan-jafar-09aa9b24a)
+- **Yasser Al-Sirafi** 🔗 [LinkedIn](https://www.linkedin.com/in/yasser-al-sirafi-401437392/)
+- **Mouayad bakleh** 🔗 [LinkedIn](https://www.linkedin.com/in/moaiad-bakleh-4459a3376)
+- **Eng. Sarah Alahmad**  🔗 [LinkedIn](https://www.linkedin.com/in/sarah-alahmad-bb23271b7/)
 - **Malek Saadi** 🔗 [LinkedIn](https://www.linkedin.com/in/malek-saadi-27096134b/)
-  
+- **Jolian Wassof** 🔗 [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/)
+- **Eng. Tareq Alkhateb** 🔗 [LinkedIn](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/)
+- 
+### Public Relations (PR) Team
+
+- **Malek Saadi** 🔗 [LinkedIn](https://www.linkedin.com/in/malek-saadi-27096134b/)
+- **Eng. Tareq Alkhateb** 🔗 [LinkedIn](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/)
+
 Your support, creativity, and hard work made this exhibition truly exceptional.
 
 ---
