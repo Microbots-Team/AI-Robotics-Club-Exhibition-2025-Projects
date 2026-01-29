@@ -716,13 +716,14 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 - **Malek Saadi** 🔗 [LinkedIn](https://www.linkedin.com/in/malek-saadi-27096134b/)
 - **Jolian Wassof** 🔗 [LinkedIn](https://www.linkedin.com/in/jolian-wassof-85512b375/)
 - **Eng. Tareq Alkhateb** 🔗 [LinkedIn](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/)
-- 
+
 ### Public Relations (PR) Team
 
 - **Malek Saadi** 🔗 [LinkedIn](https://www.linkedin.com/in/malek-saadi-27096134b/)
 - **Eng. Tareq Alkhateb** 🔗 [LinkedIn](https://www.linkedin.com/in/tareq-alkhateb-3359221a6/)
 
-Your support, creativity, and hard work made this exhibition truly exceptional.
+
+### Your support, creativity, and hard work made this exhibition truly exceptional.
 
 ---
 
