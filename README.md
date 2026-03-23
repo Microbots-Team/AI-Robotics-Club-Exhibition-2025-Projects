@@ -1,6 +1,6 @@
 # 🚀 FMEE 2025 – AI & Robotics Club Exhibition Projects
 
-<img src="images/logo.png" alt="logo" width="50%">
+<img src="images/Fixed_logo.png" alt="logo" width="50%">
 
 Welcome to the **FMEE 2025 Repository**, a showcase of **21 innovative robotics, AI, and interactive engineering projects** presented at the **Opening Event of the AI & Robotics Club**.
 
@@ -14,7 +14,9 @@ This collection represents the creativity and technical excellence of our studen
 This repository is a unified archive of all robotics, AI, automation, and interactive technology projects created for the 2025 exhibition and club launch.
 
 <p align="center">
-<img src="images/logo.png" alt="logo" height="150"  >
+ <img src="images/Damascus_University.png" alt="logo" height="160"  >
+ <img src="images/hamak.png" alt="logo" height="150"  >
+<img src="images/Fixed_logo.png" alt="logo" height="150"  >
 <img src="images/fmee.png" alt="logo" height="150">
 </p>
 
@@ -706,6 +708,7 @@ A huge thank you to everyone who made **FMEE 2025** and the **AI & Robotics Club
 ### Volunteers & Logistics Team
 
 - **Tasnem Kanakriah –  Logistics Team Leader**  🔗 [LinkedIn](https://www.linkedin.com/in/tasnem-kanakriah/)
+- **Zamzam Mursel** 🔗 [LinkedIn](https://www.linkedin.com/in/zamzammursel/)
 - **May Homsi** 🔗 [LinkedIn](https://www.linkedin.com/in/may-homsi-04764335b/)
 - **Sulaiman Sulaiman** 🔗 [LinkedIn](https://www.linkedin.com/in/sulaiman-sulaiman-98355238a)
 - **Aya ALbadawe** 🔗 [LinkedIn](https://www.linkedin.com/in/aya-albadawe-428a9938a)
